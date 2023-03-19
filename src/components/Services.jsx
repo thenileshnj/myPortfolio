@@ -10,7 +10,7 @@ const Services = () => {
         <h1>My Services</h1>
       </div>
       <div className="flex flex-wrap gap-x-8 gap-y-4  m-auto items-center justify-center">
-        <div className="bg-white rounded-xl mt-8 w-3/4 sm:w-3/4 md:w-2/6 lg:w-3/12 xl:w-3/12 2xl:w-2/6 px-6 py-2 shadow-xl">
+        <div className="bg-white rounded-xl mt-8 w-3/4 sm:w-3/4 md:w-2/6 lg:w-3/12 xl:w-3/12 2xl:w-3/12 px-6 py-2 shadow-xl">
           <div>
             <img src={web} alt="" />
           </div>
@@ -21,7 +21,7 @@ const Services = () => {
             <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
           </div>
         </div>
-        <div className="bg-white rounded-xl mt-8 w-3/4 sm:w-3/4 md:w-2/6 lg:w-3/12 xl:w-3/12 2xl:w-2/6 px-6 py-2 shadow-xl">
+        <div className="bg-white rounded-xl mt-8 w-3/4 sm:w-3/4 md:w-2/6 lg:w-3/12 xl:w-3/12 2xl:w-3/12 px-6 py-2 shadow-xl">
           <div>
             <img src={app} alt="" />
           </div>
@@ -32,7 +32,7 @@ const Services = () => {
           <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
           </div>
         </div>
-        <div className="bg-white rounded-xl mt-8 w-3/4 sm:w-3/4 md:w-2/6 lg:w-3/12 xl:w-3/12 2xl:w-2/6 px-6 py-2 shadow-xl">
+        <div className="bg-white rounded-xl mt-8 w-3/4 sm:w-3/4 md:w-2/6 lg:w-3/12 xl:w-3/12 2xl:w-3/12 px-6 py-2 shadow-xl">
           <div>
             <img src={uiux} alt="" />
           </div>
